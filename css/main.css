@@ -1,0 +1,22 @@
+body{
+	
+}
+#section_1 {
+	background-color: #003300;
+	width: 600px;
+	height: 420px;
+	border-radius: 100px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+#section_1 h1{
+	color: white;
+	font-size: 60px;
+	text-align: center;
+}
+#section_1 p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
